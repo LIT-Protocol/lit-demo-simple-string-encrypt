@@ -1,5 +1,5 @@
 import './App.css';
-import * as LitJsSdk from 'lit-js-sdk';
+import * as LitJsSdk from '@lit-protocol/lit-node-client';
 
 // -- init litNodeClient
 const litNodeClient = new LitJsSdk.LitNodeClient();
